@@ -18,7 +18,7 @@ async def on_message(message):
     if client.user.mentioned_in(message) and message.mention_everyone is False:
         await message.channel.send('fuck off im busy greeting peeps')
 
-client.run('NzE3NDYzODA0ODY2NDYxNzA5.XvAUkg.rrKJApGMqlLDiHhJCohvzE3W82Q')
+client.run('###')
 
 
 #whalecum at Aldi!
